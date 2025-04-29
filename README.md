@@ -6,3 +6,6 @@
 | Kelas | TI.23.A6 |  Sekar Ayu Aulia Nazwa | 312310654 |
 | Kelas | TI.23.A6 | Muhammad Fiqri Firmansyah | 312310629 |
 | Link Trello Kelompok | https://trello.com/b/cgFsvDQA/thinktrix-quiz| 
+
+## Storyboard
+![image](ss/Storyboard.png)
